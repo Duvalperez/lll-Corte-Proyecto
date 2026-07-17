@@ -1,6 +1,4 @@
-Aquí tienes el README.md completamente estructurado, utilizando una jerarquía clara, elementos visuales limpios en Markdown, tablas y bloques de código bien definidos para que tenga una presentación impecable en tu repositorio de GitHub.
 
-Markdown
 # Procesador de Expresiones Aritméticas Estático en Rust 🦀
 
 Este proyecto consiste en un **Mini-Traductor y Procesador de Expresiones Aritméticas** desarrollado en el lenguaje de programación de sistemas **Rust**. 
